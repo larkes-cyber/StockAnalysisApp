@@ -5,7 +5,7 @@ Created on Fri Oct 18 02:36:59 2019
 @author: Admin
 """
 
-import FundamentalAnalysis as fa
+import fundamentalanalysis as fa
 import streamlit as st
 import matplotlib.pyplot as plt, pandas as pd, numpy as np
 from PIL import Image
